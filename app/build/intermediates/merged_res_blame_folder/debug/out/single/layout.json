@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_login.xml",
+        "source": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_message_detail.xml",
+        "source": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_message_detail.xml"
+    },
+    {
+        "merged": "edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_login.xml",
+        "source": "edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_channel.xml",
+        "source": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_channel.xml"
+    },
+    {
+        "merged": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_messages.xml",
+        "source": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-mergeDebugResources-49:/layout/fragment_workspaces.xml",
+        "source": "/Users/fernandoortiz/.gradle/daemon/7.5/edu.ucsc.cse118.assignment2.app-main-52:/layout/fragment_workspaces.xml"
+    }
+]
